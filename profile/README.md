@@ -1,12 +1,38 @@
-## Marine Ecology and Conservation Laboratory
+## About Us
+The Marine Ecology and Conservation (MEC) Laboratory is a
 
-<!--
+## Lab Members
+### Principal Investigator
+**Rene A. Abesamis, Ph.D.**  
+Associate Professor  
+Email: raabesamis@msi.upd.edu.ph  
 
-**Here are some ideas to get you started:**
+### Research Associates
+**Kim R. Maningo**  
+In-house Research Associate  
+Email: krmaningo@msi.upd.edu.ph  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Ignacio Luigi C. Catolico**  
+Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
+Email: iccatolico@up.edu.ph  
+
+**Ma. Czarmayne Victoria Jude T. Escoro**  
+Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
+Email: mtescoro@up.edu.ph  
+
+**Jem Emmanuel D. Mongado**  
+Project:   
+Email: jdmongado@msi.upd.edu.ph
+
+**Marcell Joshua L. Reserva**  
+Project:   
+Email: mlreserva@msi.upd.edu.ph
+
+**Aileen Jane A. Salinasal**
+Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
+Email: aasalinasal@msi.upd.edu.ph  
+
+**Raphael M. Toledo**  
+Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
+Email: rmtoledo@msi.upd.edu.ph  
+
