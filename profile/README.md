@@ -21,7 +21,7 @@ Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and mana
 [*UK COAST meaning? Write something about the project here*]
 
 ## Principal Investigator
-<img src="https://msi.upd.edu.ph/wp-content/uploads/2023/11/Rene-Abesamis-468x468.png" alt="Photo of Dr. Rene A. Abesamis" width="100" height="100" style="border-radius: 50%;">  
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/Rene-Abesamis-468x468.png?raw=true" width="100" height="100" alt="Dr. Rene A. Abesamis">  
 
 **Rene A. Abesamis, Ph.D.**  
 Associate Professor  
