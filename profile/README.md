@@ -5,7 +5,7 @@ The laboratory functions under administrative systems:
 * The **University of the Philippines (UP)**, through UP Diliman, the College of Science, and the Marine Science Institute; and
 * The **Marine Environment and Resources Foundation (MERF)**, which administers selected projects and funds.
   
-The **main research goal** of MEC is to understand ecological patterns and processes, and their implications for conservation and management. The activities include:  
+The **main research goal** of MEC is to understand ecological patterns and processes, and their implications for conservation and management. MEC activities include:  
 * Research activities in marine ecology and conservation
 * Academic mentoring of MSc and PhD students in Marine Science
 * Administrative and project management procedures
