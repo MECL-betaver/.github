@@ -15,7 +15,7 @@ The **main research goal** of MEC is to understand ecological patterns and proce
 Funded by the Pew Charitable Fund, the project aims to [*write something about the project here*]
 
 ### Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)
-Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and managed by the Australian Center for International Agricultural Research (ACIAR), the project aims to integrate ecological and social data to inform marine spatial planning for coral reef management and conservation in the province of Palawan. [*expound pa moree*]
+Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and managed by the Australian Center for International Agricultural Research (ACIAR), EMERGE is a collaborative initiative among the UP Marine Science Institute (UPMSI), University of Technology Sydney (UTS), Macquarie University (MQ), and Palawan State University (PalawanSU). In the Philippines, the project aims to integrate ecological and social data to inform marine spatial planning for coral reef management and conservation in the province of Palawan. [*expound pa moree*]
 
 ### UK COAST
 [*UK COAST meaning? Write something about the project here*]
