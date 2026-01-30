@@ -81,7 +81,7 @@ Project: Enhancing local capacity to identify and protect climate-resilient cora
 Email: mtescoro@up.edu.ph  
 
 <br>
-<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/krmaningo.jpg?raw=true" width="200" height="200" alt="Kim">  
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/kmaningo.jpg?raw=true" width="200" height="200" alt="Kim">  
 
 **Kim Maningo**  
 *Research Associate*  
