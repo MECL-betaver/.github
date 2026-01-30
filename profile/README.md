@@ -142,7 +142,7 @@ Email: paulynn.ubiadas@dlsu.edu.ph
 
 ## Research Collaborators
 <details>
-  <summary> Get to know our them! </summary>  
+  <summary> Get to know them! </summary>  
   
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/ajcelis.jpg?raw=true" width="200" height="200" alt="Anna">  
