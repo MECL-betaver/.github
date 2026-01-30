@@ -46,7 +46,7 @@ Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and mana
   <summary> Details </summary>  
 
 <br>
-[*UK COAST meaning? Write something about the project here*]
+Project details
 
 </details>
 
@@ -57,9 +57,9 @@ Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and mana
   <summary> Get to know us! </summary>  
 
 <br>
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/abquilantang.jpg?raw=true" width="200" height="200" alt="Anton">  
 
-
-**Anton Mathew B. Quilantang**  
+**Anton Mathew Quilantang**  
 *University Research Associate I*  
 In-house Research Assistant  
 Email: abquilantang@up.edu.ph  
@@ -67,7 +67,7 @@ Email: abquilantang@up.edu.ph
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/iccatolico.jpg?raw=true" width="200" height="200" alt="Luigi">  
 
-**Ignacio Luigi C. Catolico**  
+**Ignacio Luigi Catolico**  
 *Research Associate*  
 Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
 Email: iccatolico@up.edu.ph  
@@ -75,7 +75,7 @@ Email: iccatolico@up.edu.ph
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/mtescoro.jpg?raw=true" width="200" height="200" alt="Shang">  
 
-**Ma. Czarmayne Victoria Jude T. Escoro**  
+**Ma. Czarmayne Victoria Jude Escoro**  
 *Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: mtescoro@up.edu.ph  
@@ -83,7 +83,7 @@ Email: mtescoro@up.edu.ph
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/krmaningo.jpg?raw=true" width="200" height="200" alt="Kim">  
 
-**Kim R. Maningo**  
+**Kim Maningo**  
 *Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: krmaningo@msi.upd.edu.ph  
@@ -91,15 +91,15 @@ Email: krmaningo@msi.upd.edu.ph
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/jdmongado.jpg?raw=true" width="200" height="200" alt="Jem">  
 
-**Jem Emmanuel D. Mongado**  
+**Jem Emmanuel Mongado**  
 *Research Associate*  
 Project: UK COAST  
 Email: jdmongado@msi.upd.edu.ph
 
 <br>
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/aprincipe.jpg?raw=true" width="200" height="200" alt="Alexis">  
 
-
-**Alexis S. Principe**  
+**Alexis Principe**  
 *Project Manager*  
 Project: UK COAST  
 Email: asprincipe@gmail.com  
@@ -107,29 +107,29 @@ Email: asprincipe@gmail.com
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/mlreserva.jpg?raw=true" width="200" height="200" alt="Marcell">  
 
-**Marcell Joshua L. Reserva**  
+**Marcell Joshua Reserva**  
 *Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: mlreserva@msi.upd.edu.ph
 
 <br>
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/aasalinasal.jpg?raw=true" width="200" height="200" alt="Aileen">  
 
-
-**Aileen Jane A. Salinasal**  
+**Aileen Jane Salinasal**  
 *Research Associate*  
 Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
 Email: aasalinasal@msi.upd.edu.ph  
 
 <br>
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/rmtoledo.jpg?raw=true" width="200" height="200" alt="Raf">  
 
-
-**Raphael M. Toledo**  
+**Raphael Toledo**  
 *Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: rmtoledo@msi.upd.edu.ph  
 
 <br>
-
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/pubiadas.jpg?raw=true" width="200" height="200" alt="Pau">  
 
 **Paulynn Carla Ubiadas**  
 *Research Associate*  
@@ -147,7 +147,7 @@ Email: paulynn.ubiadas@dlsu.edu.ph
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/ajcelis.jpg?raw=true" width="200" height="200" alt="Anna">  
 
-**Anna Isabel J. Celis**  
+**Anna Isabel Celis**  
 Organization: Sulubaai Environmental Foundation  
 Email: annajcelis@gmail.com
 
