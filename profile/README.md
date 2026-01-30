@@ -17,7 +17,7 @@ The **main research goal** of MEC is to understand ecological patterns and proce
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/raabesamis.png?raw=true" width="200" height="200" alt="Dr. Rene A. Abesamis">  
 
 **Rene A. Abesamis, Ph.D.**  
-Associate Professor  
+*Associate Professor*  
 Email: raabesamis@msi.upd.edu.ph  
 
 <br>
@@ -60,7 +60,7 @@ Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and mana
 
 
 **Anton Mathew B. Quilantang**  
-University Research Associate I  
+*University Research Associate I*  
 In-house Research Assistant  
 Email: abquilantang@up.edu.ph  
 
@@ -68,7 +68,7 @@ Email: abquilantang@up.edu.ph
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/iccatolico.jpg?raw=true" width="200" height="200" alt="Luigi">  
 
 **Ignacio Luigi C. Catolico**  
-Research Associate  
+*Research Associate*  
 Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
 Email: iccatolico@up.edu.ph  
 
@@ -76,7 +76,7 @@ Email: iccatolico@up.edu.ph
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/mtescoro.jpg?raw=true" width="200" height="200" alt="Shang">  
 
 **Ma. Czarmayne Victoria Jude T. Escoro**  
-Research Associate  
+*Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: mtescoro@up.edu.ph  
 
@@ -84,7 +84,7 @@ Email: mtescoro@up.edu.ph
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/krmaningo.jpg?raw=true" width="200" height="200" alt="Kim">  
 
 **Kim R. Maningo**  
-Research Associate  
+*Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: krmaningo@msi.upd.edu.ph  
 
@@ -92,7 +92,7 @@ Email: krmaningo@msi.upd.edu.ph
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/jdmongado.jpg?raw=true" width="200" height="200" alt="Jem">  
 
 **Jem Emmanuel D. Mongado**  
-Research Associate  
+*Research Associate*  
 Project: UK COAST  
 Email: jdmongado@msi.upd.edu.ph
 
@@ -100,7 +100,7 @@ Email: jdmongado@msi.upd.edu.ph
 
 
 **Alexis S. Principe**  
-Project Manager  
+*Project Manager*  
 Project: UK COAST  
 Email: asprincipe@gmail.com  
 
@@ -108,7 +108,7 @@ Email: asprincipe@gmail.com
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/mlreserva.jpg?raw=true" width="200" height="200" alt="Marcell">  
 
 **Marcell Joshua L. Reserva**  
-Research Associate  
+*Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: mlreserva@msi.upd.edu.ph
 
@@ -116,7 +116,7 @@ Email: mlreserva@msi.upd.edu.ph
 
 
 **Aileen Jane A. Salinasal**  
-Research Associate  
+*Research Associate*  
 Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
 Email: aasalinasal@msi.upd.edu.ph  
 
@@ -124,7 +124,7 @@ Email: aasalinasal@msi.upd.edu.ph
 
 
 **Raphael M. Toledo**  
-Research Associate  
+*Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: rmtoledo@msi.upd.edu.ph  
 
@@ -132,7 +132,7 @@ Email: rmtoledo@msi.upd.edu.ph
 
 
 **Paulynn Carla Ubiadas**  
-Research Associate  
+*Research Associate*  
 Project: UK COAST  
 Email: paulynn.ubiadas@dlsu.edu.ph
 
