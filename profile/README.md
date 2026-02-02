@@ -28,7 +28,7 @@ Email: raabesamis@msi.upd.edu.ph
   <summary> Details </summary>  
 
 <br>
-Funded by the Pew Charitable Fund, the project aims to...
+Project details
 
 </details>
   
