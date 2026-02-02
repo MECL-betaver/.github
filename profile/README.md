@@ -113,7 +113,7 @@ Project: Enhancing local capacity to identify and protect climate-resilient cora
 Email: mlreserva@msi.upd.edu.ph
 
 <br>
-<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/aasalinasal.jpg?raw=true" width="200" height="200" alt="Aileen">  
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/aasalinasal.png?raw=true" width="200" height="200" alt="Aileen">  
 
 **Aileen Jane Salinasal**  
 *Research Associate*  
