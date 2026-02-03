@@ -1,7 +1,7 @@
 ## About Us
 The Marine Ecology and Conservation (MEC) Laboratory operates as a research and academic unit based at the University of the Philippines Marine Science Institute (UP MSI). The Laboratory undertakes research in marine ecology and conservation and supports academic mentoring, project implementation, and institutional collaboration.  
   
-The laboratory functions under administrative systems:  
+The laboratory functions under the following administrative systems:  
 * The **University of the Philippines (UP)**, through UP Diliman, the College of Science, and the Marine Science Institute; and
 * The **Marine Environment and Resources Foundation (MERF), Inc.**, which administers select projects and funds.
 
