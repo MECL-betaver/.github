@@ -41,7 +41,7 @@ Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and mana
 
 </details>
 
-### UK COAST
+### Scaling up citizen science innovations to boost community-driven coral reef conservation
 <details>
   <summary> Details </summary>  
 
