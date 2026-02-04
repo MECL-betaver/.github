@@ -93,7 +93,7 @@ Email: krmaningo@msi.upd.edu.ph
 
 **Jem Emmanuel Mongado**  
 *Research Associate*  
-Project: UK COAST  
+Project: Scaling up citizen science innovations to boost community-driven coral reef conservation  
 Email: jdmongado@msi.upd.edu.ph
 
 <br>
@@ -101,7 +101,7 @@ Email: jdmongado@msi.upd.edu.ph
 
 **Alexis Principe**  
 *Project Manager*  
-Project: UK COAST  
+Project: Scaling up citizen science innovations to boost community-driven coral reef conservation   
 Email: asprincipe@gmail.com  
 
 <br>
@@ -133,7 +133,7 @@ Email: rmtoledo@msi.upd.edu.ph
 
 **Paulynn Carla Ubiadas**  
 *Research Associate*  
-Project: UK COAST  
+Project: Scaling up citizen science innovations to boost community-driven coral reef conservation  
 Email: paulynn.ubiadas@dlsu.edu.ph
 
 </details>
