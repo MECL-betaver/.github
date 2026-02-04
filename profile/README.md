@@ -37,7 +37,7 @@ Project details
   <summary> Details </summary>  
 
 <br>
-Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and managed by the Australian Center for International Agricultural Research (ACIAR), EMERGE is a collaborative initiative between UP Marine Science Institute (UPMSI), University of Technology Sydney (UTS), Macquarie University (MQ), and Palawan State University (PalawanSU). In the Philippines, the project aims to integrate ecological and social data to inform marine spatial planning for coral reef management and conservation in the province of Palawan.
+Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and managed by the Australian Center for International Agricultural Research (ACIAR), EMERGE is a collaborative initiative between UP Marine Science Institute (UPMSI), University of Technology Sydney (UTS), Macquarie University (MQ), and Western Philippines University (WPU). In the Philippines, the project aims to integrate ecological and social data to inform marine spatial planning for coral reef management and conservation in the province of Palawan.
 
 </details>
 
