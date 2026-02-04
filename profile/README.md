@@ -46,7 +46,8 @@ Funded by the Australian Department of Foreign Affairs and Trade (DFAT) and mana
   <summary> Details </summary>  
 
 <br>
-Project details  
+Project details   
+  
 Climate and Ocean Adaptation and Sustainable Transition (COAST)
 
 </details>
