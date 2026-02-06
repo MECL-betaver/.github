@@ -59,18 +59,17 @@ Climate and Ocean Adaptation and Sustainable Transition (COAST)
   <summary> Get to know us! </summary>  
 
 <br>
-<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/abquilantang.jpg?raw=true" width="200" height="200" alt="Anton">  
+<img src="?raw=true" width="200" height="200" alt="Kyle">  
 
-**Anton Mathew Quilantang**  
-*University Research Associate I*  
-In-house Research Assistant  
-Email: abquilantang@up.edu.ph  
+**Kyle Cabarle**  
+*MSc Student*  
+Email: kyle.benedict0428@gmail.com  
 
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/iccatolico.jpg?raw=true" width="200" height="200" alt="Luigi">  
 
 **Ignacio Luigi Catolico**  
-*Research Associate*  
+*MSc Student & Research Associate*  
 Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
 Email: iccatolico@up.edu.ph  
 
@@ -78,9 +77,30 @@ Email: iccatolico@up.edu.ph
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/mtescoro.jpg?raw=true" width="200" height="200" alt="Shang">  
 
 **Ma. Czarmayne Victoria Jude Escoro**  
-*Research Associate*  
+*MSc Student & Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: mtescoro@up.edu.ph  
+
+<br>
+<img src="?raw=true" width="200" height="200" alt="Art">  
+
+**Art Russel Flandez**  
+*PhD Student*   
+Email: aflandez@msi.upd.edu.ph  
+
+<br>
+<img src="?raw=true" width="200" height="200" alt="Carla">  
+
+**Carla Louise Jaurigue**  
+*MSc Student*   
+Email: cdjaurigue1@up.edu.ph  
+
+<br>
+<img src="?raw=true" width="200" height="200" alt="Steph">  
+
+**Stephanie Lueia**  
+*MSc Student*   
+Email: sllueia@up.edu.ph  
 
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/kmaningo.jpg?raw=true" width="200" height="200" alt="Kim">  
@@ -94,7 +114,7 @@ Email: krmaningo@msi.upd.edu.ph
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/jdmongado.jpg?raw=true" width="200" height="200" alt="Jem">  
 
 **Jem Emmanuel Mongado**  
-*Research Associate*  
+*MSc Student & Research Associate*  
 Project: Scaling up citizen science innovations to boost community-driven coral reef conservation  
 Email: jdmongado@msi.upd.edu.ph
 
@@ -107,10 +127,25 @@ Project: Scaling up citizen science innovations to boost community-driven coral 
 Email: asprincipe@gmail.com  
 
 <br>
+<img src="?raw=true" width="200" height="200" alt="Dave">  
+
+**Davelyn Pastor-Rengel**  
+*PhD Student*   
+Email: dprengel@msi.upd.edu.ph  
+
+<br>
+<img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/abquilantang.jpg?raw=true" width="200" height="200" alt="Anton">  
+
+**Anton Mathew Quilantang**  
+*MSc Student & University Research Associate I*  
+In-house Research Assistant  
+Email: abquilantang@up.edu.ph  
+
+<br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/mlreserva.jpg?raw=true" width="200" height="200" alt="Marcell">  
 
 **Marcell Joshua Reserva**  
-*Research Associate*  
+*MSc Student & Research Associate*  
 Project: Enhancing local capacity to identify and protect climate-resilient coral reefs in marine protected area networks in the central Philippines  
 Email: mlreserva@msi.upd.edu.ph
 
@@ -121,6 +156,13 @@ Email: mlreserva@msi.upd.edu.ph
 *Research Associate*  
 Project: Enhancing marine environmental governance in Indonesia and the Philippines (EMERGE)  
 Email: aasalinasal@msi.upd.edu.ph  
+
+<br>
+<img src="?raw=true" width="200" height="200" alt="Claude">  
+
+**Claude Salva**  
+*MSc Student*   
+Email: cgsalva@up.edu.ph  
 
 <br>
 <img src="https://github.com/MECL-betaver/.github/blob/main/README-assets/rmtoledo.jpg?raw=true" width="200" height="200" alt="Raf">  
